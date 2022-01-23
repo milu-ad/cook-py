@@ -1,0 +1,90 @@
+{
+  "川菜": [
+    {
+      "Vegetables": 2801,
+      "Rice, noodles and beans": 845,
+      "Meat and poultry": 2397,
+      "Aquatic products": 783,
+      "Fruits": 246,
+      "Other": 117,
+      "Seasonings": 2110
+    }
+  ],
+  "徽菜": [
+    {
+      "Vegetables": 243,
+      "Meat and poultry": 258,
+      "Rice, noodles and beans": 98,
+      "Fruits": 27,
+      "Seasonings": 112,
+      "Aquatic products": 123,
+      "Other": 23
+    }
+  ],
+  "湘菜": [
+    {
+      "Meat and poultry": 445,
+      "Vegetables": 545,
+      "Seasonings": 451,
+      "Aquatic products": 295,
+      "Other": 30,
+      "Rice, noodles and beans": 190,
+      "Fruits": 19
+    }
+  ],
+  "鲁菜": [
+    {
+      "Meat and poultry": 1017,
+      "Aquatic products": 749,
+      "Vegetables": 1185,
+      "Seasonings": 844,
+      "Fruits": 89,
+      "Rice, noodles and beans": 453,
+      "Other": 56
+    }
+  ],
+  "闽菜": [
+    {
+      "Meat and poultry": 393,
+      "Seasonings": 212,
+      "Aquatic products": 191,
+      "Rice, noodles and beans": 226,
+      "Vegetables": 383,
+      "Fruits": 57,
+      "Other": 48
+    }
+  ],
+  "苏菜": [
+    {
+      "Vegetables": 47,
+      "Meat and poultry": 66,
+      "Aquatic products": 32,
+      "Other": 3,
+      "Seasonings": 25,
+      "Rice, noodles and beans": 33,
+      "Fruits": 2
+    }
+  ],
+  "粤菜": [
+    {
+      "Meat and poultry": 2227,
+      "Vegetables": 2058,
+      "Other": 201,
+      "Seasonings": 1183,
+      "Rice, noodles and beans": 1463,
+      "Aquatic products": 655,
+      "Fruits": 581
+    }
+  ],
+  "浙菜": [
+    {
+      "Other": 35,
+      "Aquatic products": 264,
+      "Rice, noodles and beans": 285,
+      "Vegetables": 532,
+      "Meat and poultry": 375,
+      "Seasonings": 213,
+      "Fruits": 65
+    }
+  ]
+}

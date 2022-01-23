@@ -1,0 +1,378 @@
+[
+  {
+    "city": "川",
+    "cityid": "C",
+    "id": "Cw1",
+    "label": "地表水",
+    "labelMax": 3131
+  },
+  {
+    "city": "川",
+    "cityid": "C",
+    "id": "Cw0",
+    "label": "湖",
+    "labelNum": 29,
+    "labelMax": 114.5
+  },
+  {
+    "city": "川",
+    "cityid": "C",
+    "id": "Cw2",
+    "label": "50km2",
+    "labelNum": 2816,
+    "labelMax": 95422
+  },
+  {
+    "city": "川",
+    "cityid": "C",
+    "id": "Cw3",
+    "label": "100km2",
+    "labelNum": 1396,
+    "labelMax": 70465
+  },
+  {
+    "city": "川",
+    "cityid": "C",
+    "id": "Cw4",
+    "label": "1000km2",
+    "labelNum": 150,
+    "labelMax": 26948
+  },
+  {
+    "city": "川",
+    "cityid": "C",
+    "id": "Cw5",
+    "label": "10000km2",
+    "labelNum": 20,
+    "labelMax": 10649
+  },
+  {
+    "city": "徽",
+    "cityid": "H",
+    "id": "Hw1",
+    "label": "地表水",
+    "labelMax": 617
+  },
+  {
+    "city": "徽",
+    "cityid": "H",
+    "id": "Hw0",
+    "label": "湖",
+    "labelNum": 128,
+    "labelMax": 3505
+  },
+  {
+    "city": "徽",
+    "cityid": "H",
+    "id": "Hw2",
+    "label": "50km2",
+    "labelNum": 901,
+    "labelMax": 29401
+  },
+  {
+    "city": "徽",
+    "cityid": "H",
+    "id": "Hw3",
+    "label": "100km2",
+    "labelNum": 4818,
+    "labelMax": 21980
+  },
+  {
+    "city": "徽",
+    "cityid": "H",
+    "id": "Hw4",
+    "label": "1000km2",
+    "labelNum": 66,
+    "labelMax": 7937
+  },
+  {
+    "city": "徽",
+    "cityid": "H",
+    "id": "Hw5",
+    "label": "10000km2",
+    "labelNum": 8,
+    "labelMax": 1641
+  },
+  {
+    "city": "湘",
+    "cityid": "X",
+    "id": "Xw1",
+    "label": "地表水",
+    "labelMax": 1620
+  },
+  {
+    "city": "湘",
+    "cityid": "X",
+    "id": "Xw0",
+    "label": "湖",
+    "labelNum": 156,
+    "labelMax": 3070.7
+  },
+  {
+    "city": "湘",
+    "cityid": "X",
+    "id": "Xw2",
+    "label": "50km2",
+    "labelNum": 1301,
+    "labelMax": 46011
+  },
+  {
+    "city": "湘",
+    "cityid": "X",
+    "id": "Xw3",
+    "label": "100km2",
+    "labelNum": 660,
+    "labelMax": 33589
+  },
+  {
+    "city": "湘",
+    "cityid": "X",
+    "id": "Xw4",
+    "label": "1000km2",
+    "labelNum": 66,
+    "labelMax": 10441
+  },
+  {
+    "city": "湘",
+    "cityid": "X",
+    "id": "Xw5",
+    "label": "10000km2",
+    "labelNum": 99,
+    "labelMax": 3957
+  },
+  {
+    "city": "鲁",
+    "cityid": "L",
+    "id": "Lw1",
+    "label": "地表水",
+    "labelMax": 264
+  },
+  {
+    "city": "鲁",
+    "cityid": "L",
+    "id": "Lw0",
+    "label": "湖",
+    "labelNum": 8,
+    "labelMax": 1051.7
+  },
+  {
+    "city": "鲁",
+    "cityid": "L",
+    "id": "Lw2",
+    "label": "50km2",
+    "labelNum": 1049,
+    "labelMax": 32496
+  },
+  {
+    "city": "鲁",
+    "cityid": "L",
+    "id": "Lw3",
+    "label": "100km2",
+    "labelNum": 553,
+    "labelMax": 23662
+  },
+  {
+    "city": "鲁",
+    "cityid": "L",
+    "id": "Lw4",
+    "label": "1000km2",
+    "labelNum": 39,
+    "labelMax": 4896
+  },
+  {
+    "city": "鲁",
+    "cityid": "L",
+    "id": "Lw5",
+    "label": "10000km2",
+    "labelNum": 4,
+    "labelMax": 1120
+  },
+  {
+    "city": "闽",
+    "cityid": "M",
+    "id": "Mw1",
+    "label": "地表水",
+    "labelMax": 1168
+  },
+  {
+    "city": "闽",
+    "cityid": "M",
+    "id": "Mw0",
+    "label": "湖",
+    "labelNum": 1,
+    "labelMax": 1.5
+  },
+  {
+    "city": "闽",
+    "cityid": "M",
+    "id": "Mw2",
+    "label": "50km2",
+    "labelNum": 740,
+    "labelMax": 24629
+  },
+  {
+    "city": "闽",
+    "cityid": "M",
+    "id": "Mw3",
+    "label": "100km2",
+    "labelNum": 389,
+    "labelMax": 18051
+  },
+  {
+    "city": "闽",
+    "cityid": "M",
+    "id": "Mw4",
+    "label": "1000km2",
+    "labelNum": 41,
+    "labelMax": 5697
+  },
+  {
+    "city": "闽",
+    "cityid": "M",
+    "id": "Mw5",
+    "label": "10000km2",
+    "labelNum": 5,
+    "labelMax": 1719
+  },
+  {
+    "city": "苏",
+    "cityid": "S",
+    "id": "Sw1",
+    "label": "地表水",
+    "labelMax": 249
+  },
+  {
+    "city": "苏",
+    "cityid": "S",
+    "id": "Sw0",
+    "label": "湖",
+    "labelNum": 99,
+    "labelMax": 5887.3
+  },
+  {
+    "city": "苏",
+    "cityid": "S",
+    "id": "Sw2",
+    "label": "50km2",
+    "labelNum": 1495,
+    "labelMax": 31197
+  },
+  {
+    "city": "苏",
+    "cityid": "S",
+    "id": "Sw3",
+    "label": "100km2",
+    "labelNum": 714,
+    "labelMax": 19552
+  },
+  {
+    "city": "苏",
+    "cityid": "S",
+    "id": "Sw4",
+    "label": "1000km2",
+    "labelNum": 15,
+    "labelMax": 1649
+  },
+  {
+    "city": "苏",
+    "cityid": "S",
+    "id": "Sw5",
+    "label": "10000km2",
+    "labelNum": 4,
+    "labelMax": 672
+  },
+  {
+    "city": "粤",
+    "cityid": "Y",
+    "id": "Yw1",
+    "label": "地表水",
+    "labelMax": 2111
+  },
+  {
+    "city": "粤",
+    "cityid": "Y",
+    "id": "Yw0",
+    "label": "湖",
+    "labelNum": 7,
+    "labelMax": 18.7
+  },
+  {
+    "city": "粤",
+    "cityid": "Y",
+    "id": "Yw2",
+    "label": "50km2",
+    "labelNum": 1211,
+    "labelMax": 36559
+  },
+  {
+    "city": "粤",
+    "cityid": "Y",
+    "id": "Yw3",
+    "label": "100km2",
+    "labelNum": 614,
+    "labelMax": 25851
+  },
+  {
+    "city": "粤",
+    "cityid": "Y",
+    "id": "Yw4",
+    "label": "1000km2",
+    "labelNum": 60,
+    "labelMax": 7668
+  },
+  {
+    "city": "粤",
+    "cityid": "Y",
+    "id": "Yw5",
+    "label": "10000km2",
+    "labelNum": 6,
+    "labelMax": 1635
+  },
+  {
+    "city": "浙",
+    "cityid": "Z",
+    "id": "Zw1",
+    "label": "地表水",
+    "labelMax": 885
+  },
+  {
+    "city": "浙",
+    "cityid": "Z",
+    "id": "Zw0",
+    "label": "湖",
+    "labelNum": 57,
+    "labelMax": 99.2
+  },
+  {
+    "city": "浙",
+    "cityid": "Z",
+    "id": "Zw2",
+    "label": "50km2",
+    "labelNum": 865,
+    "labelMax": 22474
+  },
+  {
+    "city": "浙",
+    "cityid": "Z",
+    "id": "Zw3",
+    "label": "100km2",
+    "labelNum": 490,
+    "labelMax": 16375
+  },
+  {
+    "city": "浙",
+    "cityid": "Z",
+    "id": "Zw4",
+    "label": "1000km2",
+    "labelNum": 26,
+    "labelMax": 3927
+  },
+  {
+    "city": "浙",
+    "cityid": "Z",
+    "id": "Zw5",
+    "label": "10000km2",
+    "labelNum": 3,
+    "labelMax": 975
+  }
+]

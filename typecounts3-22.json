@@ -1,0 +1,92 @@
+[
+  {
+    "chuancai": [
+      {
+        "Vegetables": 2647,
+        "Rice, noodles and beans": 958,
+        "Meat and poultry": 2539,
+        "Aquatic products": 715,
+        "Fruits": 264,
+        "Seasonings": 2165,
+        "Other": 11
+      }
+    ],
+    "huicai": [
+      {
+        "Vegetables": 237,
+        "Meat and poultry": 273,
+        "Rice, noodles and beans": 111,
+        "Fruits": 26,
+        "Seasonings": 120,
+        "Aquatic products": 112,
+        "Other": 5
+      }
+    ],
+    "xiangcai": [
+      {
+        "Meat and poultry": 474,
+        "Vegetables": 489,
+        "Seasonings": 494,
+        "Aquatic products": 289,
+        "Rice, noodles and beans": 192,
+        "Fruits": 31,
+        "Other": 6
+      }
+    ],
+    "lucai": [
+      {
+        "Meat and poultry": 1080,
+        "Aquatic products": 708,
+        "Vegetables": 1103,
+        "Seasonings": 859,
+        "Other": 12,
+        "Rice, noodles and beans": 534,
+        "Fruits": 97
+      }
+    ],
+    "mincai": [
+      {
+        "Meat and poultry": 426,
+        "Aquatic products": 199,
+        "Vegetables": 357,
+        "Rice, noodles and beans": 246,
+        "Other": 16,
+        "Seasonings": 206,
+        "Fruits": 60
+      }
+    ],
+    "sucai": [
+      {
+        "Vegetables": 48,
+        "Meat and poultry": 65,
+        "Aquatic products": 31,
+        "Seasonings": 22,
+        "Rice, noodles and beans": 38,
+        "Fruits": 4,
+        "Other": 0
+      }
+    ],
+    "yuecai": [
+      {
+        "Meat and poultry": 2349,
+        "Vegetables": 2015,
+        "Seasonings": 1124,
+        "Rice, noodles and beans": 1551,
+        "Aquatic products": 630,
+        "Fruits": 615,
+        "Other": 92
+      }
+    ],
+    "zhecai": [
+      {
+        "Vegetables": 518,
+        "Aquatic products": 248,
+        "Rice, noodles and beans": 311,
+        "Meat and poultry": 408,
+        "Seasonings": 216,
+        "Other": 5,
+        "Fruits": 63
+      }
+    ]
+  }
+]

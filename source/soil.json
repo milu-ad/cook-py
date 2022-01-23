@@ -1,0 +1,282 @@
+[
+  {
+    "city": "川",
+    "cityid": "C",
+    "id": "Cm0",
+    "label": "plain",
+    "labelMax": 5.3
+  },
+  {
+    "city": "川",
+    "cityid": "C",
+    "id": "Cm1",
+    "label": "plateau",
+    "labelMax": 4.7
+  },
+  {
+    "city": "川",
+    "cityid": "C",
+    "id": "Cm2",
+    "label": "hill",
+    "labelMax": 12.9
+  },
+  {
+    "city": "川",
+    "cityid": "C",
+    "id": "Cm3",
+    "label": "mountainous",
+    "labelMax": 77.1
+  },
+  {
+    "city": "川",
+    "cityid": "C",
+    "id": "Cm4",
+    "label": "basin",
+    "labelMax": 0
+  },
+  {
+    "city": "徽",
+    "cityid": "H",
+    "id": "Hm0",
+    "label": "plain",
+    "labelMax": 41.8
+  },
+  {
+    "city": "徽",
+    "cityid": "H",
+    "id": "Hm1",
+    "label": "plateau",
+    "labelMax": 0
+  },
+  {
+    "city": "徽",
+    "cityid": "H",
+    "id": "Hm2",
+    "label": "hill",
+    "labelMax": 28.9
+  },
+  {
+    "city": "徽",
+    "cityid": "H",
+    "id": "Hm3",
+    "label": "mountainous",
+    "labelMax": 29.4
+  },
+  {
+    "city": "徽",
+    "cityid": "H",
+    "id": "Hm4",
+    "label": "basin",
+    "labelMax": 0
+  },
+  {
+    "city": "湘",
+    "cityid": "X",
+    "id": "Xm0",
+    "label": "plain",
+    "labelMax": 14
+  },
+  {
+    "city": "湘",
+    "cityid": "X",
+    "id": "Xm1",
+    "label": "plateau",
+    "labelMax": 0
+  },
+  {
+    "city": "湘",
+    "cityid": "X",
+    "id": "Xm2",
+    "label": "hill",
+    "labelMax": 16.5
+  },
+  {
+    "city": "湘",
+    "cityid": "X",
+    "id": "Xm3",
+    "label": "mountainous",
+    "labelMax": 54.7
+  },
+  {
+    "city": "湘",
+    "cityid": "X",
+    "id": "Xm4",
+    "label": "basin",
+    "labelMax": 14.8
+  },
+  {
+    "city": "鲁",
+    "cityid": "L",
+    "id": "Lm0",
+    "label": "plain",
+    "labelMax": 70
+  },
+  {
+    "city": "鲁",
+    "cityid": "L",
+    "id": "Lm1",
+    "label": "plateau",
+    "labelMax": 0
+  },
+  {
+    "city": "鲁",
+    "cityid": "L",
+    "id": "Lm2",
+    "label": "hill",
+    "labelMax": 15.4
+  },
+  {
+    "city": "鲁",
+    "cityid": "L",
+    "id": "Lm3",
+    "label": "mountainous",
+    "labelMax": 14.6
+  },
+  {
+    "city": "鲁",
+    "cityid": "L",
+    "id": "Lm4",
+    "label": "basin",
+    "labelMax": 0
+  },
+  {
+    "city": "闽",
+    "cityid": "M",
+    "id": "Mm0",
+    "label": "plain",
+    "labelMax": 12
+  },
+  {
+    "city": "闽",
+    "cityid": "M",
+    "id": "Mm1",
+    "label": "plateau",
+    "labelMax": 0
+  },
+  {
+    "city": "闽",
+    "cityid": "M",
+    "id": "Mm2",
+    "label": "hill",
+    "labelMax": 52
+  },
+  {
+    "city": "闽",
+    "cityid": "M",
+    "id": "Mm3",
+    "label": "mountainous",
+    "labelMax": 36
+  },
+  {
+    "city": "闽",
+    "cityid": "M",
+    "id": "Mm4",
+    "label": "basin",
+    "labelMax": 0
+  },
+  {
+    "city": "苏",
+    "cityid": "S",
+    "id": "Sm0",
+    "label": "plain",
+    "labelMax": 86.89
+  },
+  {
+    "city": "苏",
+    "cityid": "S",
+    "id": "Sm1",
+    "label": "plateau",
+    "labelMax": 0
+  },
+  {
+    "city": "苏",
+    "cityid": "S",
+    "id": "Sm2",
+    "label": "hill",
+    "labelMax": 11.55
+  },
+  {
+    "city": "苏",
+    "cityid": "S",
+    "id": "Sm3",
+    "label": "mountainous",
+    "labelMax": 1.56
+  },
+  {
+    "city": "苏",
+    "cityid": "S",
+    "id": "Sm4",
+    "label": "basin",
+    "labelMax": 0
+  },
+  {
+    "city": "粤",
+    "cityid": "Y",
+    "id": "Ym0",
+    "label": "plain",
+    "labelMax": 37.99
+  },
+  {
+    "city": "粤",
+    "cityid": "Y",
+    "id": "Ym1",
+    "label": "plateau",
+    "labelMax": 0
+  },
+  {
+    "city": "粤",
+    "cityid": "Y",
+    "id": "Ym2",
+    "label": "hill",
+    "labelMax": 26.35
+  },
+  {
+    "city": "粤",
+    "cityid": "Y",
+    "id": "Ym3",
+    "label": "mountainous",
+    "labelMax": 35.66
+  },
+  {
+    "city": "粤",
+    "cityid": "Y",
+    "id": "Ym4",
+    "label": "basin",
+    "labelMax": 0
+  },
+  {
+    "city": "浙",
+    "cityid": "Z",
+    "id": "Zm0",
+    "label": "plain",
+    "labelMax": 24.79
+  },
+  {
+    "city": "浙",
+    "cityid": "Z",
+    "id": "Zm1",
+    "label": "plateau",
+    "labelMax": 0
+  },
+  {
+    "city": "浙",
+    "cityid": "Z",
+    "id": "Zm2",
+    "label": "hill",
+    "labelMax": 0
+  },
+  {
+    "city": "浙",
+    "cityid": "Z",
+    "id": "Zm3",
+    "label": "mountainous",
+    "labelMax": 75.21
+  },
+  {
+    "city": "浙",
+    "cityid": "Z",
+    "id": "Zm4",
+    "label": "basin",
+    "labelMax": 0
+  }
+]
